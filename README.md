@@ -1,2 +1,2 @@
 # halite-ii-visualizer-win32
-offline halite 2 replay viewer
+View your hlt replay files locally on your windows machine 
